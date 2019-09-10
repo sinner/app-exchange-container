@@ -1,0 +1,7 @@
+.cache/*
+.idea/*
+.history/*
+devops/docker/db*
+
+app-api/*
+app-front/*
